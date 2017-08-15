@@ -12,7 +12,7 @@ Example of a minimal OCILIB C application
 
 import (
   "fmt"
-  oci "github.com/jmptrader/goocilib"
+  oci "github.com/jmptrader/cgocilib"
 )
 
  
@@ -21,8 +21,8 @@ func main()
 
     oci.Initialize(NULL, NULL, oci.OCI_ENV_DEFAULT)
  
-    cn := OCI_ConnectionCreate("db", "usr", "pwd", oci.OCI_SESSION_DEFAULT)     // oci.Connection
-    st := OCI_StatementCreate(cn)                                               // oci.Statement
+    cn := oci.ConnectionCreate("db", "usr", "pwd", oci.OCI_SESSION_DEFAULT)     // oci.Connection
+    st := oci.StatementCreate(cn)                                               // oci.Statement
  
     oci.ExecuteStmt(st, "select intcol, strcol from table")
  
