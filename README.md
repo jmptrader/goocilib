@@ -12,7 +12,7 @@ Example of a minimal OCILIB C application
 
 import (
   "fmt"
-   oci "github.com/jmptrader/godpi"
+   oci "github.com/jmptrader/goci"
 )
 
  
