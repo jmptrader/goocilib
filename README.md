@@ -15,11 +15,12 @@ import (
    oci "github.com/jmptrader/ocigo"
 )
 
+
  
 func main()
 {
 
-    oci.Initialize(NULL, NULL, oci.OCI_ENV_DEFAULT)
+    oci.Initialize( oci.NULL , oci.NULL, oci.OCI_ENV_DEFAULT)
  
     cn := oci.ConnectionCreate("db", "usr", "pwd", oci.OCI_SESSION_DEFAULT)     // oci.Connection
     st := oci.StatementCreate(cn)                                               // oci.Statement
