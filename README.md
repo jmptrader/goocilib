@@ -1,10 +1,8 @@
 # OCIGO
 
-An wrapper in GO for OCILIB https://github.com/vrogier/ocilib an excelent wrapper for OCI from Oracle.
+An direct wrapper in GO for OCILIB https://github.com/vrogier/ocilib an excelent library OCI for Oracle.
 
-Hope be the one-to-one in go lib for c lib.
-
-Many tips & tricks were obtained from https://github.com/tgulacsi/gocilib an driver compatible with database/sql.
+Many tips & tricks were obtained from https://github.com/tgulacsi/gocilib an driver compatible with database/sql and other sites.
 
 ## Examples
 
@@ -16,7 +14,6 @@ import (
   "fmt"
    oci "github.com/jmptrader/ocigo"
 )
-
 
  
 func main()
@@ -39,9 +36,3 @@ func main()
  
 }
 ```
-
-
-
-  
-
-
