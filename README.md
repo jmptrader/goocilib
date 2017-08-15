@@ -2,7 +2,7 @@
 
 An direct wrapper in GO for OCILIB https://github.com/vrogier/ocilib an excelent library OCI for Oracle.
 
-Many tips & tricks were obtained from https://github.com/tgulacsi/gocilib an driver compatible with database/sql and other sites.
+Many tips & tricks were obtained from https://github.com/tgulacsi/gocilib and https://github.com/mattn/go-oci8  two excelent drivers compatibles with database/sql.
 
 ## Examples
 
