@@ -2,7 +2,14 @@
 
 An direct wrapper in GO for OCILIB https://github.com/vrogier/ocilib an C and C++ library for accessing Oracle databases.
 
-Many tips & tricks were obtained from https://github.com/tgulacsi/gocilib and https://github.com/mattn/go-oci8  two excelent drivers compatibles with database/sql.
+Many ideas, tips & tricks were obtained from different drivers GO for Oracle database compatibles with database/sql.
+
+- https://github.com/tgulacsi/gocilib 
+- https://github.com/mattn/go-oci8  
+- https://github.com/rana/ora
+
+
+Our main objective is to build a library in GO with an API equivalent to the OCILIB.
 
 ## Examples
 
