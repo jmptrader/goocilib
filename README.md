@@ -9,6 +9,7 @@ Many ideas, tips & tricks were obtained from different drivers GO for Oracle dat
 - https://github.com/rana/ora
 
 
+
 Our main objective is to build a library in GO with an API equivalent to the OCILIB.
 
 ## Examples
