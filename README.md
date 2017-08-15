@@ -1,4 +1,4 @@
-# GOOCILIB
+# OCIGO
 
 An wrapper in GO for OCILIB https://github.com/vrogier/ocilib.
 
@@ -12,7 +12,7 @@ Example of a minimal OCILIB C application
 
 import (
   "fmt"
-   oci "github.com/jmptrader/goci"
+   oci "github.com/jmptrader/ocigo"
 )
 
  
