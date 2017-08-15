@@ -8,7 +8,7 @@ Many tips & tricks were obtained from https://github.com/tgulacsi/gocilib an dri
 
 ## Examples
 
-Example of a minimal OCILIB C application
+Example of a minimal OCIGO program
 
 ```GO
 
