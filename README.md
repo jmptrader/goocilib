@@ -1,6 +1,8 @@
 # OCIGO
 
-An wrapper in GO for OCILIB https://github.com/vrogier/ocilib.
+An wrapper in GO for OCILIB https://github.com/vrogier/ocilib an excelent wrapper for OCI from Oracle.
+
+Hope be the one-to-one in go lib for c lib.
 
 Many tips & tricks were obtained from https://github.com/tgulacsi/gocilib an driver compatible with database/sql.
 
