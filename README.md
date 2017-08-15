@@ -10,7 +10,7 @@ Many ideas, tips & tricks were obtained from different drivers GO for Oracle dat
 
 
 
-Our main objective is to build a library in GO with an API equivalent to the OCILIB. :smile:
+> Our main objective is to build a library in GO with an API equivalent to the OCILIB. :smile:
 
 ## Examples
 
