@@ -1,6 +1,6 @@
 # OCIGO
 
-An direct wrapper in GO for OCILIB https://github.com/vrogier/ocilib an excelent library OCI for Oracle.
+An direct wrapper in GO for OCILIB https://github.com/vrogier/ocilib an C and C++ library for accessing Oracle databases.
 
 Many tips & tricks were obtained from https://github.com/tgulacsi/gocilib and https://github.com/mattn/go-oci8  two excelent drivers compatibles with database/sql.
 
